@@ -1,0 +1,13 @@
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.csprojAssemblyReference.cache
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfoInputs.cache
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfo.cs
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.csproj.CoreCompileInputs.cache
+c:\Programming\CS155\CS155\Honmework2\bin\Debug\netcoreapp3.1\Homework2.exe
+c:\Programming\CS155\CS155\Honmework2\bin\Debug\netcoreapp3.1\Homework2.deps.json
+c:\Programming\CS155\CS155\Honmework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.json
+c:\Programming\CS155\CS155\Honmework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.dev.json
+c:\Programming\CS155\CS155\Honmework2\bin\Debug\netcoreapp3.1\Homework2.dll
+c:\Programming\CS155\CS155\Honmework2\bin\Debug\netcoreapp3.1\Homework2.pdb
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.dll
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.pdb
+c:\Programming\CS155\CS155\Honmework2\obj\Debug\netcoreapp3.1\Homework2.genruntimeconfig.cache

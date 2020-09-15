@@ -1,0 +1,13 @@
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.csprojAssemblyReference.cache
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.AssemblyInfoInputs.cache
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.AssemblyInfo.cs
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.csproj.CoreCompileInputs.cache
+c:\Programming\CS155\CS155\Homework2\Celsius\bin\Debug\netcoreapp3.1\Celsius.exe
+c:\Programming\CS155\CS155\Homework2\Celsius\bin\Debug\netcoreapp3.1\Celsius.deps.json
+c:\Programming\CS155\CS155\Homework2\Celsius\bin\Debug\netcoreapp3.1\Celsius.runtimeconfig.json
+c:\Programming\CS155\CS155\Homework2\Celsius\bin\Debug\netcoreapp3.1\Celsius.runtimeconfig.dev.json
+c:\Programming\CS155\CS155\Homework2\Celsius\bin\Debug\netcoreapp3.1\Celsius.dll
+c:\Programming\CS155\CS155\Homework2\Celsius\bin\Debug\netcoreapp3.1\Celsius.pdb
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.dll
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.pdb
+c:\Programming\CS155\CS155\Homework2\Celsius\obj\Debug\netcoreapp3.1\Celsius.genruntimeconfig.cache

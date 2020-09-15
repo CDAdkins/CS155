@@ -1,0 +1,13 @@
+c:\Programming\CS155\CS155\Homework2\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.exe
+c:\Programming\CS155\CS155\Homework2\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.deps.json
+c:\Programming\CS155\CS155\Homework2\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.json
+c:\Programming\CS155\CS155\Homework2\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.dev.json
+c:\Programming\CS155\CS155\Homework2\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.dll
+c:\Programming\CS155\CS155\Homework2\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.pdb
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csprojAssemblyReference.cache
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfoInputs.cache
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfo.cs
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csproj.CoreCompileInputs.cache
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.dll
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.pdb
+c:\Programming\CS155\CS155\Homework2\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.genruntimeconfig.cache
