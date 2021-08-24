@@ -3,16 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part1", "Week1\Part1.csproj", "{A5037650-9759-458A-9BFD-1B0464B9B428}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 1", "Week 1", "{B2679128-F89F-4709-BB39-41A60A06362C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part2", "Part2\Part2.csproj", "{FE4C02E9-517C-4D3A-BB73-4A6B5EF42204}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F21824A-2914-4787-867B-DD73C0F20000}"
 	ProjectSection(SolutionItems) = preProject
 		StyleSheet.txt = StyleSheet.txt
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{7AF448B4-387C-4F9C-B3F4-FF110927E91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProject", "Week1\Part1\MyFirstProject\MyFirstProject.csproj", "{7ABC4641-1F86-47AE-A732-71E421BBEAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeArt", "Week1\Part2\CodeArt\CodeArt.csproj", "{5AA2BBCD-7780-4CAD-BDE3-1AC3ADF75FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,20 +20,21 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A5037650-9759-458A-9BFD-1B0464B9B428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A5037650-9759-458A-9BFD-1B0464B9B428}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A5037650-9759-458A-9BFD-1B0464B9B428}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A5037650-9759-458A-9BFD-1B0464B9B428}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FE4C02E9-517C-4D3A-BB73-4A6B5EF42204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE4C02E9-517C-4D3A-BB73-4A6B5EF42204}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE4C02E9-517C-4D3A-BB73-4A6B5EF42204}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE4C02E9-517C-4D3A-BB73-4A6B5EF42204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABC4641-1F86-47AE-A732-71E421BBEAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABC4641-1F86-47AE-A732-71E421BBEAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABC4641-1F86-47AE-A732-71E421BBEAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABC4641-1F86-47AE-A732-71E421BBEAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA2BBCD-7780-4CAD-BDE3-1AC3ADF75FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA2BBCD-7780-4CAD-BDE3-1AC3ADF75FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA2BBCD-7780-4CAD-BDE3-1AC3ADF75FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA2BBCD-7780-4CAD-BDE3-1AC3ADF75FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A5037650-9759-458A-9BFD-1B0464B9B428} = {B2679128-F89F-4709-BB39-41A60A06362C}
+		{7ABC4641-1F86-47AE-A732-71E421BBEAB7} = {7AF448B4-387C-4F9C-B3F4-FF110927E91E}
+		{5AA2BBCD-7780-4CAD-BDE3-1AC3ADF75FC7} = {7AF448B4-387C-4F9C-B3F4-FF110927E91E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E6281F5-9D82-4B69-BBA5-AE32F5D974BD}
