@@ -22,7 +22,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Part1
+    class MyFirstProject
     {
         static void Main(string[] args) {
             // print a message to the screen
