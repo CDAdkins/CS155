@@ -1,4 +1,4 @@
-/// Homework No. Excercise No.
+/// Week  Homework 
 /// File Name: 
 /// @author: Chris Adkins
 /// Date:
@@ -12,4 +12,19 @@
 ///
 /// Classes Needed and Purpose: 
 /// Main Class: 
+
+
+/// Week  Lab 
+/// File Name: 
+/// @author: Chris Adkins
+/// Date:
 ///
+/// Problem Statement: 
+/// 
+/// Overall Plan
+/// 1. 
+/// 2. 
+/// 3. 
+///
+/// Classes Needed and Purpose: 
+/// Main Class: 
