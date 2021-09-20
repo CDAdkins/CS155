@@ -28,6 +28,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3", "Week3", "{AF33BCFD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage", "Week3\Mortgage\Mortgage.csproj", "{6A47D282-83BD-4370-A855-9C3A90502BBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "Week3\VendingMachine\VendingMachine.csproj", "{78B33E5D-84E5-4DC0-86D9-480BAD08E751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{6A47D282-83BD-4370-A855-9C3A90502BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A47D282-83BD-4370-A855-9C3A90502BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A47D282-83BD-4370-A855-9C3A90502BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B33E5D-84E5-4DC0-86D9-480BAD08E751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B33E5D-84E5-4DC0-86D9-480BAD08E751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B33E5D-84E5-4DC0-86D9-480BAD08E751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B33E5D-84E5-4DC0-86D9-480BAD08E751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{1A9BB080-98A2-4EF0-A073-E9B89E489202} = {1DE054A3-6690-45D2-91CA-093A8573A4BF}
 		{1ECDA183-00EC-4016-9149-91CB518191CB} = {1DE054A3-6690-45D2-91CA-093A8573A4BF}
 		{6A47D282-83BD-4370-A855-9C3A90502BBD} = {AF33BCFD-0EAB-4ABD-A97D-C9887B0B1DC9}
+		{78B33E5D-84E5-4DC0-86D9-480BAD08E751} = {AF33BCFD-0EAB-4ABD-A97D-C9887B0B1DC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E6281F5-9D82-4B69-BBA5-AE32F5D974BD}
