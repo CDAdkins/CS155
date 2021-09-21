@@ -1,5 +1,5 @@
 ﻿/// Week 2 Homework 2
-/// File Name: TempConvert
+/// File Name: TempConvert.cs
 /// @author: Chris Adkins
 /// Date: 8/31/21
 ///
