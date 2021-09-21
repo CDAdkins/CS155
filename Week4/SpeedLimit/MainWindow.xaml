@@ -1,0 +1,20 @@
+﻿<Window x:Class="SpeedLimit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpeedLimit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas x:Name="myCanvas" HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="792" Background="#FF1B1B1B">
+            <Label x:Name="speedLimitLabel" Content="Speed Limit: " Canvas.Left="10" Canvas.Top="383" Background="{x:Null}" Foreground="White"/>
+            <TextBox x:Name="speedLimitTextBox" Height="23" Canvas.Left="88" TextWrapping="Wrap" Canvas.Top="386" Width="40" Foreground="White" Background="#FF1B1B1B"/>
+            <Label x:Name="currentSpeedLabel" Content="Your Speed:" Canvas.Left="664" Canvas.Top="383" Background="{x:Null}" Foreground="White"/>
+            <TextBox x:Name="currentSpeedTextBox" Height="23" Canvas.Left="742" TextWrapping="Wrap" Canvas.Top="386" Width="40" Foreground="White" Background="#FF1B1B1B"/>
+            <Button Content="Check My Speed" Canvas.Left="304" Canvas.Top="386" Width="156" HorizontalAlignment="Center" Background="#FF747474" Click="Button_Click"/>
+            <Label x:Name="penaltyLabel" Content="Penalty" Canvas.Left="10" Canvas.Top="106" Height="163" Width="772" Foreground="White" FontSize="72" HorizontalContentAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Disabled" Visibility="Hidden"/>
+        </Canvas>
+
+    </Grid>
+</Window>
