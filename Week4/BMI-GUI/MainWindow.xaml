@@ -1,0 +1,20 @@
+﻿<Window x:Class="BMI_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_GUI"
+        mc:Ignorable="d"
+        Title="BMI Calculator" Height="450" Width="800">
+    <Grid>
+        <Canvas x:Name="myCanvas" HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="792" Background="#FF181818">
+            <Label x:Name="BMILabel" Content="BMI Calculator" Canvas.Top="10" Height="115" Width="772" Canvas.Left="10" Foreground="White" FontSize="54" HorizontalContentAlignment="Center"/>
+            <Label x:Name="weightLabel" Content="Weight (lbs):" Canvas.Left="10" Canvas.Top="361" Foreground="White" FontSize="24"/>
+            <TextBox x:Name="weightTextBox" Height="42" Canvas.Left="152" TextWrapping="Wrap" Canvas.Top="365" Width="45" FontSize="24" Background="{x:Null}" BorderBrush="White" Foreground="White"/>
+            <Label x:Name="heightLabel" Content="Height (in):" Canvas.Left="605" Canvas.Top="361" Foreground="White" FontSize="24"/>
+            <TextBox x:Name="heightTextBox" Height="42" Canvas.Left="737" TextWrapping="Wrap" Canvas.Top="365" Width="45" FontSize="24" HorizontalContentAlignment="Center" Background="{x:Null}" BorderBrush="White" Foreground="White"/>
+            <Button Content="Check BMI" Canvas.Left="275" Canvas.Top="383" Width="250" Click="Button_Click"/>
+        </Canvas>
+
+    </Grid>
+</Window>
