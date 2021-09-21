@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "Week3\Ven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinGUI", "Week3\PigLatinGUI\PigLatinGUI.csproj", "{9DC621F4-6321-4B55-B6C7-884BCAF1C919}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LampFlowchart", "Week3\LampFlowchart\LampFlowchart.csproj", "{5E170444-523A-46A2-869A-792278FCB319}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{9DC621F4-6321-4B55-B6C7-884BCAF1C919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DC621F4-6321-4B55-B6C7-884BCAF1C919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DC621F4-6321-4B55-B6C7-884BCAF1C919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E170444-523A-46A2-869A-792278FCB319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E170444-523A-46A2-869A-792278FCB319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E170444-523A-46A2-869A-792278FCB319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E170444-523A-46A2-869A-792278FCB319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{6A47D282-83BD-4370-A855-9C3A90502BBD} = {AF33BCFD-0EAB-4ABD-A97D-C9887B0B1DC9}
 		{78B33E5D-84E5-4DC0-86D9-480BAD08E751} = {AF33BCFD-0EAB-4ABD-A97D-C9887B0B1DC9}
 		{9DC621F4-6321-4B55-B6C7-884BCAF1C919} = {AF33BCFD-0EAB-4ABD-A97D-C9887B0B1DC9}
+		{5E170444-523A-46A2-869A-792278FCB319} = {AF33BCFD-0EAB-4ABD-A97D-C9887B0B1DC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E6281F5-9D82-4B69-BBA5-AE32F5D974BD}
