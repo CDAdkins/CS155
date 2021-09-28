@@ -26,11 +26,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3", "Week3", "{AF33BCFD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage", "Week3\Mortgage\Mortgage.csproj", "{6A47D282-83BD-4370-A855-9C3A90502BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "Week3\VendingMachine\VendingMachine.csproj", "{78B33E5D-84E5-4DC0-86D9-480BAD08E751}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "Week3\VendingMachine\VendingMachine.csproj", "{78B33E5D-84E5-4DC0-86D9-480BAD08E751}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinGUI", "Week3\PigLatinGUI\PigLatinGUI.csproj", "{9DC621F4-6321-4B55-B6C7-884BCAF1C919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LampFlowchart", "Week3\LampFlowchart\LampFlowchart.csproj", "{5E170444-523A-46A2-869A-792278FCB319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LampFlowchart", "Week3\LampFlowchart\LampFlowchart.csproj", "{5E170444-523A-46A2-869A-792278FCB319}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week4", "Week4", "{9B01CB39-BC26-4DE2-84A3-1E1278AE56D7}"
 EndProject
@@ -38,9 +38,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedLimit", "Week4\SpeedLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI-GUI", "Week4\BMI-GUI\BMI-GUI.csproj", "{8979B811-4BAA-4F44-BADB-F9B87BDD7DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinToss", "Week4\CoinToss\CoinToss.csproj", "{E1002012-8FC7-4093-A2E5-FEFA224FE553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinToss", "Week4\CoinToss\CoinToss.csproj", "{E1002012-8FC7-4093-A2E5-FEFA224FE553}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversion", "Week2\TemperatureConversion\TemperatureConversion.csproj", "{42CFA7C3-0A92-4713-BA1C-7D213BCD4134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureConversion", "Week2\TemperatureConversion\TemperatureConversion.csproj", "{42CFA7C3-0A92-4713-BA1C-7D213BCD4134}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week5", "Week5", "{D1E4C2A0-520F-4296-9097-86553E5577BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCopy", "Week5\ArrayCopy\ArrayCopy.csproj", "{676C259E-0B42-42A9-A5D4-7EA26AC3097E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "Week5\ReverseArray\ReverseArray.csproj", "{04C730F8-AF03-4686-A231-1021A4F34DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -100,6 +106,14 @@ Global
 		{42CFA7C3-0A92-4713-BA1C-7D213BCD4134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42CFA7C3-0A92-4713-BA1C-7D213BCD4134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42CFA7C3-0A92-4713-BA1C-7D213BCD4134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676C259E-0B42-42A9-A5D4-7EA26AC3097E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676C259E-0B42-42A9-A5D4-7EA26AC3097E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676C259E-0B42-42A9-A5D4-7EA26AC3097E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676C259E-0B42-42A9-A5D4-7EA26AC3097E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C730F8-AF03-4686-A231-1021A4F34DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C730F8-AF03-4686-A231-1021A4F34DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C730F8-AF03-4686-A231-1021A4F34DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C730F8-AF03-4686-A231-1021A4F34DCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +132,8 @@ Global
 		{8979B811-4BAA-4F44-BADB-F9B87BDD7DA7} = {9B01CB39-BC26-4DE2-84A3-1E1278AE56D7}
 		{E1002012-8FC7-4093-A2E5-FEFA224FE553} = {9B01CB39-BC26-4DE2-84A3-1E1278AE56D7}
 		{42CFA7C3-0A92-4713-BA1C-7D213BCD4134} = {1DE054A3-6690-45D2-91CA-093A8573A4BF}
+		{676C259E-0B42-42A9-A5D4-7EA26AC3097E} = {D1E4C2A0-520F-4296-9097-86553E5577BB}
+		{04C730F8-AF03-4686-A231-1021A4F34DCD} = {D1E4C2A0-520F-4296-9097-86553E5577BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E6281F5-9D82-4B69-BBA5-AE32F5D974BD}
