@@ -1,6 +1,5 @@
 # CS155
-Projects 
 
-Week 1:
-  * Part 1: MyFirstProject - Example code compiled on my machine and pushed to the repo.
-  * Part 2: CodeArt - Code that prints an image of a tree to the console using '*' characters.
+Here's a working directory that I'm currently using for my CS155 class at Miracosta College.
+
+Getting so many projects to be formatted properly in a Visual studio solution was the hardest part.
