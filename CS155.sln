@@ -57,9 +57,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator-GUI", "Week6\Calculator-GUI\Calculator-GUI.csproj", "{F339B16F-A756-4A89-9D7E-75D9BABC18EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week7", "Week7", "{0C6EBE97-019E-4029-AD11-A83500A0ECD4}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Users\adkin\Pictures\Screenshots\2021-10\Odometer.png = ..\..\Users\adkin\Pictures\Screenshots\2021-10\Odometer.png
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odometer", "Week7\Odometer\Odometer.csproj", "{745994FC-71F6-4704-BCEE-155C16958C3B}"
 EndProject
