@@ -122,7 +122,7 @@ namespace Pizza
                 }
 
                 // Determining how to describe the amount of each topping the customer got.
-                switch (topping) { // Basically converting the int value to a description of how much of a topping the customer is getting
+                switch (topping) { // Basically converting the int value to a description of how much of a topping the customer is gettingv
                     case 0:
                         returnValue += "None";
                         break;
